@@ -12,7 +12,7 @@ app.get('/conteudos', function (req, res) {
             tit: "CR7 da Show"
         }]
     
-    console.log(acont)
+  //  console.log(acont)
   res.send(acont)
 
 })
